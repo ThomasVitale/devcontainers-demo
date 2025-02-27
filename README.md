@@ -12,6 +12,6 @@ Demo application
 
 ## 💻&nbsp; Development
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/arconia-io/patient-journal)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ThomasVitale/devcontainers-demo)
 
-[![Open in DevPod](https://devpod.sh/assets/open-in-devpod.svg)](https://devpod.sh/open#https://github.com/arconia-io/patient-journal)
+[![Open in DevPod](https://devpod.sh/assets/open-in-devpod.svg)](https://devpod.sh/open#https://github.com/ThomasVitale/devcontainers-demo)
